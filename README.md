@@ -5,3 +5,4 @@ You will find the main projects for my data analyst portfolio here.
 * 'Abandono Escolar - Data Analysis' (WIP) -> (PT-BR) Um projeto em python que busca responder questões mais próximas de áreas de meu interesse, como políticas públicas.
 * Unnamed Power BI Project (WIP)
 * Unnamed SQL Project (WIP)
+* Monografia -> (PT-BR) A minha introdução à criação de projetos de análise de dados
