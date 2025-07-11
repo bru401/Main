@@ -6,3 +6,6 @@ You will find the main projects for my data analyst portfolio here.
 * Unnamed Power BI Project (WIP)
 * Unnamed SQL Project (WIP)
 * Monografia -> (PT-BR) A minha introdução à criação de projetos de análise de dados
+
+Most of my projects can be found on Kaggle, so you can check them out there:
+https://www.kaggle.com/brunorenaux
