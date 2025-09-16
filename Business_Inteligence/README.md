@@ -1,14 +1,17 @@
-# Main2
-You will find the main projects for my data analyst portfolio here.
+This project is based on Microsoft's sample database "AdventureWorks". We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
+(Imagem do SQL Server)
+This will be simulation of a sales dashboard, therefore, our main variables of interest will be budget, customers, products and, obviously, sales. The SQL scripts used to make this selection will be in the repository.
+(Imagem do script)
+First, we make sure the data is in the right type.
+('Transform data' no PowerBI)
+After that, we make sure the schema is correct (????).
+(Imagem da 'Exibição de modelo')
+The Fact tables are used by the dimension tables due to having only numbers, keys, thus avoiding the redundancy of storing multiple copies of the same text (????)
+Finally, the dashboard itself. We'll go step by step.
+(Imagem do todo)
+Side by side with the title, I've set the filters related to time. On the left side of the dashboard, I've set the filters realted to other variables, such as city and product.
+Between these, I've set the main KPI of the dashboard, which tracks the monthly sales as related to budget. (...)
+(Imagem da KPI)
+Mapa (...)
+Tabela (...)
 
-## Data Analytics
-* 'Pandas in Practice - Netflix' -> A demonstration of my understanding of the basic data analysis process, while utilizing Python's Pandas module as my main tool. Also includes graph building.
-* 'Abandono Escolar - Data Analysis' -> (PT-BR) Um projeto em python que busca responder questões de uma de minhas áreas de maior interesse: políticas públicas.
-
-## Misc
-* Unnamed Power BI Project (WIP)
-* Unnamed SQL Project (WIP)
-* Monografia -> (PT-BR) A minha introdução à criação de projetos de análise de dados
-
-Most of my projects can be found on Kaggle, so you can check them out there:
-https://www.kaggle.com/brunorenaux
