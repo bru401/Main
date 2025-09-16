@@ -1,4 +1,4 @@
-![Dashboard](]https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b)
+![Dashboard](https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b)
 
 ## Process (WIP)
 
