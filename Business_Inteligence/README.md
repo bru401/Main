@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b
+
+## Process (WIP)
+
 This project is based on Microsoft's sample database "AdventureWorks". We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
 (Imagem do SQL Server)
 This will be simulation of a sales dashboard, therefore, our main variables of interest will be budget, customers, products and, obviously, sales. The SQL scripts used to make this selection will be in the repository.
