@@ -1,5 +1,10 @@
 ![Dashboard](https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b)
 
+## Business Problems
+<p>
+We want to build a visual dashboard that reports on <b>internet sales</b> for a hypothetical company. Thus, there is an interest in knowing which <b>products</b> are being sold the most, to to which <b>clients</b> (or where is the clientele), and we want to have this data presented over <b>time</b>. Additionaly, as any company depends on profit, we want to compare those sales to the <b>budget</b> value.
+</p>
+
 ## Process (WIP)
 <p>
 This project is based on Microsoft's sample database "AdventureWorks". We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
