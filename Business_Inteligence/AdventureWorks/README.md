@@ -13,20 +13,18 @@ The dashboard should enable business users to quickly monitor performance, spot 
 
 ---
 
-## Business problem
-<p>
-We want to build a visual dashboard that reports on <b>internet sales</b> for a hypothetical company. Thus, there is an interest in knowing which <b>products</b> are being sold the most, to to which <b>clients</b> (or where is the clientele), and we want to have this data presented over <b>time</b>. Additionaly, as any company depends on profit, we want to compare those sales to the <b>budget</b> value.
-</p>
+## Data source
+This project uses Microsoft's sample database **AdventureWorks** as the source of sales, product and customer data. The dataset is loaded into **SQL Server** and then queried to extract only the tables and fields required for the dashboard.
+
+---
 
 ## Process
+![SQL](https://github.com/user-attachments/assets/64eac49d-94cd-41d2-a11a-7ae2f77bed51)
 <p>
 This project is based on Microsoft's sample database "AdventureWorks". We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
 </p>
-
-![SQL](https://github.com/user-attachments/assets/64eac49d-94cd-41d2-a11a-7ae2f77bed51)
-
 <p>
-This will be simulation of a sales dashboard, therefore, our main variables of interest will be budget, customers, products and, obviously, sales. The SQL scripts used to make this selection will be in the repository.
+This will be simulation of a sales dashboard, therefore, our main variables of interest will be **budget**, **customers**, **product** and, obviously, **sales**. The SQL scripts used to make this selection will be in the repository.
 </p>
 <p>
 First, we make sure the data is in the right type. Then, we make sure the schema is correct.
@@ -35,6 +33,7 @@ First, we make sure the data is in the right type. Then, we make sure the schema
 ![Schema](https://github.com/user-attachments/assets/d39e27e9-c581-44bd-9549-a7ad589ea694)
 
 <p>
+(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)(WIP)
 The Fact tables are used by the dimension tables due to having only numbers, keys, thus avoiding the redundancy of storing multiple copies of the same text (????)
 Finally, the dashboard itself. We'll go step by step.
 </p>
@@ -42,3 +41,10 @@ Finally, the dashboard itself. We'll go step by step.
 Side by side with the title, I've set the filters related to time. On the left side of the dashboard, I've set the filters realted to other variables, such as city and product.
 Between these, I've set the main KPI of the dashboard, which tracks the monthly sales as related to budget. (...)  
 </p>
+
+---
+
+## Notes & credits
+- Data: Microsoft AdventureWorks sample database.  
+- Tools: SQL Server, Power BI Desktop, Python (for ad-hoc cleaning if needed).  
+- SQL scripts and the Power BI file are included in this repository under `/sql` and `/reports`.
