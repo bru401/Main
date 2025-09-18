@@ -1,11 +1,24 @@
+# Internet Sales Dashboard (AdventureWorks) 
 ![Dashboard](https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b)
 
-## Business Problems
+## Business problem
+We want to build an interactive **sales dashboard** for a hypothetical company to answer common business questions, such as:
+
+- Which **products** are selling the most?  
+- Who are the **top customers** and where are they located?  
+- How are sales evolving **over time**?  
+- How do actual sales compare to the **monthly budget**?
+
+The dashboard should enable business users to quickly monitor performance, spot trends and variances, and filter results by time, product and geography.
+
+---
+
+## Business problem
 <p>
 We want to build a visual dashboard that reports on <b>internet sales</b> for a hypothetical company. Thus, there is an interest in knowing which <b>products</b> are being sold the most, to to which <b>clients</b> (or where is the clientele), and we want to have this data presented over <b>time</b>. Additionaly, as any company depends on profit, we want to compare those sales to the <b>budget</b> value.
 </p>
 
-## Process (WIP)
+## Process
 <p>
 This project is based on Microsoft's sample database "AdventureWorks". We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
 </p>
@@ -16,9 +29,11 @@ This project is based on Microsoft's sample database "AdventureWorks". We start 
 This will be simulation of a sales dashboard, therefore, our main variables of interest will be budget, customers, products and, obviously, sales. The SQL scripts used to make this selection will be in the repository.
 </p>
 <p>
- First, we make sure the data is in the right type.
+First, we make sure the data is in the right type. Then, we make sure the schema is correct.
 </p>
-After that, we make sure the schema is correct.
+
+![Schema](https://github.com/user-attachments/assets/d39e27e9-c581-44bd-9549-a7ad589ea694)
+
 <p>
 The Fact tables are used by the dimension tables due to having only numbers, keys, thus avoiding the redundancy of storing multiple copies of the same text (????)
 Finally, the dashboard itself. We'll go step by step.
