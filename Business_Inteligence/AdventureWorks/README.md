@@ -51,4 +51,4 @@ Between these, I've set the main KPI of the dashboard, which tracks the monthly 
 ## Notes & credits
 - Data: Microsoft AdventureWorks sample database.  
 - Tools: SQL Server, Power BI Desktop, Python (for ad-hoc cleaning if needed).  
-- SQL scripts and the Power BI file are included in this repository under `/sql` and `/reports`.
+- SQL scripts and the Power BI file are included in this repository.
