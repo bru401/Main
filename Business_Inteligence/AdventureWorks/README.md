@@ -1,5 +1,5 @@
 # Internet Sales Dashboard (AdventureWorks) 
-![Dashboard](https://github.com/user-attachments/assets/c2135f1e-9ac8-46c2-89db-ae7a0b17d56b)
+![Dashboard](https://github.com/user-attachments/assets/9845983e-87f2-47c7-b746-9666d7ee3d2a)
 
 ## Business problem
 We want to build an interactive **sales dashboard** for a hypothetical company to answer common business questions, such as:
@@ -41,6 +41,10 @@ Finally, the dashboard itself. We'll go step by step.
 Side by side with the title, I've set the filters related to time. On the left side of the dashboard, I've set the filters realted to other variables, such as city and product.
 Between these, I've set the main KPI of the dashboard, which tracks the monthly sales as related to budget. (...)  
 </p>
+
+![Dashboard](https://github.com/user-attachments/assets/f18ddc27-977c-40b0-ad18-2ea90145155f)
+
+![Dashboard](https://github.com/user-attachments/assets/e4d5d845-b0c5-4f2b-b498-018d26de5d9d)
 
 ---
 
