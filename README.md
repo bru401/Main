@@ -1,4 +1,4 @@
-# Main
+# Portfolio
 You will find the main projects for my data analyst portfolio here.
 
 ## Data Analytics
