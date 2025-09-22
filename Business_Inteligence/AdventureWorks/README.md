@@ -18,7 +18,7 @@ This project uses Microsoft's sample database **AdventureWorks** as the source o
 
 ---
 
-## Process
+## Process - SQL Server and Preparations
 ![SQL](https://github.com/user-attachments/assets/64eac49d-94cd-41d2-a11a-7ae2f77bed51)
 <p>
 We start by bringing the database to SQL Server in order to select the exact tables we need for the project. 
@@ -33,6 +33,7 @@ This will be simulation of a sales dashboard, therefore, our main variables of i
 After making sure the columns are sorted into the right types of data, we make sure the schema is correct. The arrangement pictured means that the sales and budget tables have items that refer to only *one* date, customer and product, while simultaneously one of these, such as a particular customer, may refer to multiple sales, representing the fact that one person might make multiple purchases throughout time.
 </p>
 
+## Process - Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/9845983e-87f2-47c7-b746-9666d7ee3d2a)
 
 <p> Finally, the dashboard itself. We'll go step by step. This is a repeat of the first image, the main page of the dashboard, for reference.
