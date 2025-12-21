@@ -3,9 +3,9 @@
 This repository contains a minimum viable data engineering project developed as part of a postgraduate course in Data Science and Analytics, with a focus on Data Engineering.
 The project was also designed to serve as a portfolio piece, demonstrating practical skills in data modeling, SQL, and cloud-based data pipelines.
 
-For a more detailed description of the work, please refer to [Report - Data Engineering MVP](WIP)
+For a more detailed description of the work, please refer to [Report - Data Engineering MVP](https://github.com/bru401/Main/blob/main/Data_Engineering/Report%20-%20Data%20Engineering%20MVP.pdf)
 
-### Project Overview
+## Project Overview
 
 The objective of this project is to build a cloud-based data pipeline and a simulated data warehouse using Databricks, following a Bronze / Silver / Gold architecture and a star schema design.
 
@@ -15,13 +15,26 @@ The data represents a hypothetical food retail company, and the pipeline support
 * Product performance
 * Purchase channels
 
-### Repository Structure
-Also stored in this folder are all of the notebooks utilized in the construction of this data pipeline. Executing them in order should produce the same results reported in the pdf document.
-(WIP)
-Data Engineering
-  Scripts
+## Contents
+Location: bru401/Main/Data_Engineering
 
-### Dataset
+* Notebooks
+
+Numbered 0 to 6 are the notebooks used in the making of this project. Provided with the data, they should lead to the same results achieved and described in 'Report - Data Engineering MVP'.
+
+* Conceptual_modelling_ifood
+
+An image portraying the dimensional modeling realized at the silver layer.
+
+* ml_project1_data.csv
+
+The original dataset, just as it was found on the repository for iFood's Brain Team.
+
+* Report - Data Engineering MVP
+
+A more thorough accounting of the project's results and process.
+
+## Dataset
 
 The dataset was originally released on GitHub by the iFood Brain Team for hiring purposes and was later shared on Kaggle.
 
@@ -31,7 +44,7 @@ Format: CSV
 
 Size: 2,240 customers
 
-### Business Questions 
+## Business Questions 
 The following are the business questions we hope to address with this work:
 
 #####a)	Which features of the customer base are the most significant is maximizing expenditure?
@@ -45,7 +58,7 @@ We take a brake from investigating the customer data to focus on the different p
 #####d)	Which is the most popular method of purchasing?
 The last question pertains to the different channels of purchase available. Understanding which channels generate the highest revenue is essential for strategic decision-making.
 
-### Architecture
+## Architecture
 The data pipeline is structured around medallion layers:
 
 ##### Bronze Layer
@@ -66,7 +79,7 @@ Aggregated, analysis-ready tables
 
 Focused on business metrics and descriptive insights
 
-### Data Model (Star Schema)
+## Data Model (Star Schema)
 
 #####Fact Table
 
@@ -81,6 +94,10 @@ Focused on business metrics and descriptive insights
 - DIM_Calendar: time-related attributes based on customer enrollment date
 
 This structure allows flexible slicing and aggregation for analytical queries.
+
+### Results
+
+Recorded in https://github.com/bru401/Main/blob/main/Data_Engineering/Report%20-%20Data%20Engineering%20MVP.pdf
 
 ### Final Notes
 
