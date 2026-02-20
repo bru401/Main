@@ -8,7 +8,7 @@ I have organized the projects below in such a way as to make it easier to unders
 
 # Data Analytics
 ### Python (Pandas, NumPy, MatPlotlib, Seaborn)
-* 'Pandas in Practice - Netflix' -> A hands-on project demonstrating my understanding of *the core data analysis workflow* using Python and Pandas. The project covers *data exploration, cleaning, transformation, and visualization*, and extracts real life insights from a real dataset.
+* 'Pandas in Practice - Netflix'(./Data_Analytics/pandas-in-practice-netflix.ipynb) -> A hands-on project demonstrating my understanding of *the core data analysis workflow* using Python and Pandas. The project covers *data exploration, cleaning, transformation, and visualization*, and extracts real life insights from a real dataset.
 * 'Abandono Escolar - Data Analysis' -> (PT-BR) Um projeto em Python que busca responder questões de uma de minhas áreas de maior interesse: políticas públicas.
 
 # Business Inteligence
