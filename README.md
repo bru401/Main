@@ -8,16 +8,16 @@ I have organized the projects below in such a way as to make it easier to unders
 
 # Data Analytics
 ### Python (Pandas, NumPy, MatPlotlib, Seaborn)
-* 'Pandas in Practice - Netflix'(./Data_Analytics/pandas-in-practice-netflix.ipynb) -> A hands-on project demonstrating my understanding of *the core data analysis workflow* using Python and Pandas. The project covers *data exploration, cleaning, transformation, and visualization*, and extracts real life insights from a real dataset.
-* 'Abandono Escolar - Data Analysis' -> (PT-BR) Um projeto em Python que busca responder questões de uma de minhas áreas de maior interesse: políticas públicas.
+* [Pandas in Practice - Netflix](./Data_Analytics/pandas-in-practice-netflix.ipynb) -> A hands-on project demonstrating my understanding of *the core data analysis workflow* using Python and Pandas. The project covers *data exploration, cleaning, transformation, and visualization*, and extracts real life insights from a real dataset.
+* [Abandono Escolar - Data Analysis](./Data_Analytics/abandono-escolar-data-analysis%20(1).ipynb) -> (PT-BR) Um projeto em Python que busca responder questões de uma de minhas áreas de maior interesse: políticas públicas.
 
 # Business Inteligence
 ### PowerBI, SQL
-* AdventureWorks Sales Dashboard -> An interactive *sales dashboard* built for a hypothetical company, using Microsoft Power BI and SQL. The project highlights my ability to model data, define meaningful KPIs, and design dashboards that support business monitoring and strategic insights.
+* [AdventureWorks Sales Dashboard](./Business_Inteligence/AdventureWorks) -> An interactive *sales dashboard* built for a hypothetical company, using Microsoft Power BI and SQL. The project highlights my ability to model data, define meaningful KPIs, and design dashboards that support business monitoring and strategic insights.
 
 # Data Engineering
 ### Databricks, Python, SQL
-* Data Pipeline for Marketing Analytics – Databricks MVP -> A *minimum viable product* (MVP) designed to demonstrate my understanding of *ETL fundamentals* and *cloud-based data platforms*. The project focuses on data ingestion, transformation, and storage within a *Databricks environment*, simulating a real-world analytics pipeline used to support marketing analysis.
+* [Data Pipeline for Marketing Analytics – Databricks MVP](./Data_Engineering) -> A *minimum viable product* (MVP) designed to demonstrate my understanding of *ETL fundamentals* and *cloud-based data platforms*. The project focuses on data ingestion, transformation, and storage within a *Databricks environment*, simulating a real-world analytics pipeline used to support marketing analysis.
 
 # Misc
 * Monografia -> (PT-BR) A minha introdução à criação de projetos de análise de dados
