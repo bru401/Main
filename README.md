@@ -8,7 +8,7 @@ I have organized the projects below in such a way as to make it easier to unders
 
 # Data Analytics
 ### Python (Pandas, NumPy, MatPlotlib, Seaborn)
-* [AirBnB Rio X Security](./Data_Analytics/AirBnB Rio X Security/AirBnB Rio Data Analysis) -> An analysis on the relationship between AirBnB pricing and the criminal rate in different Rio de Janeiro neighbourhoods.
+* [AirBnB Rio X Security](./Data_Analytics/Data_Analytics/AirBnB%20Rio%20X%20Security/AirBnB%20Rio%20Data%20Analysis) -> An analysis on the relationship between AirBnB pricing and the criminal rate in different Rio de Janeiro neighbourhoods.
 * [Pandas in Practice - Netflix](./Data_Analytics/pandas-in-practice-netflix.ipynb) -> A hands-on project demonstrating my understanding of *the core data analysis workflow* using Python and Pandas. The project covers *data exploration, cleaning, transformation, and visualization*, and extracts real life insights from a real dataset.
 * [Abandono Escolar - Data Analysis](./Data_Analytics/abandono-escolar-data-analysis%20(1).ipynb) -> (PT-BR) Um projeto em Python que busca responder questões de uma de minhas áreas de maior interesse: políticas públicas.
 
