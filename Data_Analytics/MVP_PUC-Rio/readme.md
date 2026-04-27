@@ -1,4 +1,4 @@
-# [Análise Exploratória do Crime no Rio de Janeiro](<Data%20Analytics/MVP%20PUC-Rio/MVP%20Análise%20de%20Dados%20e%20Boas%20Práticas%20(Bruno%20Reis).ipynb>) 
+# [Análise Exploratória do Crime no Rio de Janeiro](Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_%28Bruno_Reis%29.ipynb) 
 **Bruno Reis · MVP — Análise de Dados e Boas Práticas · PUC-Rio**
 
 ---
