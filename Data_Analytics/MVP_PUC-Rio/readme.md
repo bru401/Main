@@ -1,4 +1,4 @@
-# [Análise Exploratória do Crime no Rio de Janeiro]([https://github.com/bru401/Main/blob/bb01611fe0322a82c8bf19f1edeb08702c692850/Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_(Bruno_Reis).ipynb](https://github.com/bru401/Main/blob/6d7400c0b2d33b5b93278b9f2c67324ce18227fc/Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_(Bruno_Reis).ipynb)) 
+# [Análise Exploratória do Crime no Rio de Janeiro](https://github.com/bru401/Main/blob/6d7400c0b2d33b5b93278b9f2c67324ce18227fc/Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_(Bruno_Reis).ipynb) 
 **Bruno Reis · MVP — Análise de Dados e Boas Práticas · PUC-Rio**
 
 ---
