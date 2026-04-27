@@ -1,9 +1,7 @@
-# [Análise Exploratória do Crime no Rio de Janeiro][projeto]
+# [Análise Exploratória do Crime no Rio de Janeiro][https://github.com/bru401/Main/blob/215166fcb494b761592b4fe7edddcff148b0ae9a/Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_(Bruno_Reis).ipynb]
 **Bruno Reis · MVP — Análise de Dados e Boas Práticas · PUC-Rio**
 
-[projeto]: <Data_Analytics/MVP_PUC-Rio/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_%28Bruno_Reis%29.ipynb>
-
-
+![image alt](https://github.com/bru401/Main/blob/62f565169da0d2c72bff56fe32d4ce486bdb58a7/Data_Analytics/MVP_PUC-Rio/imagens/Mapa_de_Bairros_e_Regi%C3%B5es_Administrativ.jpg)
 
 ---
 
@@ -41,11 +39,17 @@ Após o pré-processamento, o dataset cobre **apenas o município do Rio de Jane
 
 As CISPs foram associadas a cinco zonas geográficas da cidade — **Norte, Sul, Oeste, Central e Sudoeste** — usando a tabela territorial oficial do ISP, complementada com um histórico de desmembramentos e mudanças de AISP para resolver valores faltantes.
 
+![image alt](https://github.com/bru401/Main/blob/62f565169da0d2c72bff56fe32d4ce486bdb58a7/Data_Analytics/MVP_PUC-Rio/imagens/bairros_rio_de_janeiro_shp.jpg)
+
+![image alt](https://github.com/bru401/Main/blob/62f565169da0d2c72bff56fe32d4ce486bdb58a7/Data_Analytics/MVP_PUC-Rio/imagens/popXzonas.png)
+
 ---
 
 ## Principais descobertas
 
 ### O crime não cresceu uniformemente
+
+![image alt](https://github.com/bru401/Main/blob/57ce9ca8e3ee26a1a027fd269a192edf889e63d2/Data_Analytics/MVP_PUC-Rio/imagens/Crescimento%20de%20crimes.png)
 
 Ao indexar todas as categorias com base 100 em 2003 e comparar com o crescimento populacional por zona, emerge um padrão claro de divergência: o crime cresceu acima da população em praticamente todas as zonas, mas com ritmos e perfis distintos.
 
@@ -61,11 +65,9 @@ Esse padrão sugere uma possível **migração do perfil criminal**: da violênc
 
 ### Assimetria espacial nos crimes violentos
 
+![image alt](https://github.com/bru401/Main/blob/62f565169da0d2c72bff56fe32d4ce486bdb58a7/Data_Analytics/MVP_PUC-Rio/imagens/composicao%20crime.png)
+
 Os dados desagregados por zona mostram que **lesão corporal dolosa** é, de longe, o crime mais frequente em todas as regiões — e que a Zona Oeste concentra as maiores médias tanto de homicídio doloso quanto de lesão corporal. A Zona Sul apresenta consistentemente os menores índices de violência, mesmo quando normalizado por 100 mil habitantes.
-
-### O dado bruto distorce; o per capita revela
-
-Um achado metodológico relevante: comparar contagens absolutas entre zonas é enganoso, pois a Zona Norte e a Zona Oeste têm populações muito maiores que a Zona Sul e a Zona Central. A taxa por 100 mil habitantes muda significativamente o ranking entre zonas em várias categorias — reforçando a importância da normalização populacional para qualquer conclusão sobre criminalidade regional.
 
 ---
 
